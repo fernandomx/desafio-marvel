@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ /**
+  ~  * Created by Fernando Meregali  on 08/10/20 09:21
+  ~  * Copyright (c) 2020 . All rights reserved.
+  ~  * Last modified 08/10/20 09:21
+  ~  */
+  -->
+
+<resources>
+    <dimen name="bottom_navigation_padding">16dp</dimen>
+</resources>
